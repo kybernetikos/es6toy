@@ -1,0 +1,14 @@
+{
+  "name": "es6toy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "es6-module-loader": "git://github.com/ModuleLoader/es6-module-loader"
+  }
+}
